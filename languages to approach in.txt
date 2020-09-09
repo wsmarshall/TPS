@@ -6,3 +6,5 @@ c?
 
 what about programming paradigms?
 OOP vs functional vs else?
+
+probably best to use familiar
