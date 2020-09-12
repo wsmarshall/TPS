@@ -8,3 +8,4 @@ what about programming paradigms?
 OOP vs functional vs else?
 
 probably best to use familiar
+unless you want to train a new paradigm?
