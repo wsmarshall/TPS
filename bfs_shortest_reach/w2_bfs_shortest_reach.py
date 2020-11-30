@@ -15,6 +15,29 @@ import sys
 
 from collections import defaultdict
 
+# different version(slightly) redid the problem 11/29
+def bfs(n, m, edges, s):
+    dists = defaultdict(lambda:-1)# index from 1 onward to match node names
+    dists[s] = 0
+    connects = defaultdict(list)
+    for e1,e2 in edges:
+    #     # load in all edges to the connections
+        connects[e1].append(e2)
+        connects[e2].append(e1)
+    #     pass
+    
+    q = [s]
+    while q:
+        vertex = q.pop(0)
+        for node in connects[vertex]:
+            if dists[node]<0:
+                q.append(node)
+                dists[node] = dists[vertex] + 6
+    
+    r = [dists[i] for i in range(n+1)]
+    r.pop(s)
+    return r[1:]
+	
 # Complete the bfs function below.
 def bfs(n, m, edges, s):
     """n - number of nodes in the graph
