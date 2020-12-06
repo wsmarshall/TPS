@@ -37,7 +37,7 @@ import urllib
 def create_data():
   """Creates the data."""
   data = {}
-  data['API_key'] = 'AIzaSyCKNVsWZ8lLDToyL-zg7bALkaQ9I-VDiWo'
+  data['API_key'] = 'newkey here'
   data['addresses'] = ['3610+Hacks+Cross+Rd+Memphis+TN', # depot
                        '1921+Elvis+Presley+Blvd+Memphis+TN',
                        '149+Union+Avenue+Memphis+TN',
