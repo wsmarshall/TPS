@@ -1,0 +1,30 @@
+McDichael, Sleve
+Problem 1 total: 10
+Problem 1 comments: none
+Problem 2 total: 12
+Problem 2 comments: filler
+Problem 3 total: 13
+Problem 3 comments: test filler
+Assignment total: 35
+Assignment Comments: nicely done
+
+Sweemey, Onson
+Problem 1 total: 0
+Problem 1 comments: n/a
+Problem 2 total: 10
+Problem 2 comments: needs more detail at end
+Problem 3 total: 10
+Problem 3 comments: where is part (c)?
+Assignment total: 20
+Assignment Comments: typed next time, please
+
+Archideld, Darryl
+Problem 1 total: 8
+Problem 1 comments: needs to recurse to single digit mulitplication
+Problem 2 total: 8
+Problem 2 comments: this is an iterative approach
+Problem 3 total: 13
+Problem 3 comments: nicely done
+Assignment total: 29
+Assignment Comments: typed next time, please
+
